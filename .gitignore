@@ -1,2 +1,73 @@
-.idea/
-.vscode/
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+# Ignore all files and folders that start with .vscode
+**/.vscode
+
+# Ignore the settings.json file
+**/settings.json
+
+# Ignore the tasks.json file
+**/tasks.json
+
+# Ignore the launch.json file
+**/launch.json
+
+# Ignore the extensions.json file
+**/extensions.json
+
+# Ignore all code snippets
+**/*.code-snippets
+
+# Ignore the local history
+.history/
+
+
+# Ignore all files and folders that start with .idea
+**/.idea
+
+# Ignore the .iml files
+**/*.iml
+
+# Ignore the *.db files
+**/*.db
+
+# Ignore the *.pyc files
+**/*.pyc
+
+# Ignore the *.orig files
+**/*.orig
+
+# Ignore the *.bak files
+**/*.bak
